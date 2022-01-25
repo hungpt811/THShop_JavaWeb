@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/views/common/variables.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/khachhang/cart.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/khachhang/category.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/khachhang/delivery.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/khachhang/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/khachhang/layout/footer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/khachhang/product.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/quantrivien/layout/js.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/quantrivien/layout/menu.jsp=UTF-8
+encoding/<project>=UTF-8
